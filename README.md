@@ -1,6 +1,6 @@
 ## Initial Code
 
-This is a repository containing basic code for scrap and post appliactions.
+This  repository containing basic code for scrap and post appliaction.
 The main aim of this Project is to understand the concept of react Hooks.
 
 ## Setup:
